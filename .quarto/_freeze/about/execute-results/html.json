@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "hash": "b04b023bc73bfc3a3646c5a7bbffea37",
   "result": {
     "engine": "knitr",
@@ -6,6 +7,13 @@
     "supporting": [
       "about_files"
     ],
+=======
+  "hash": "bdd1c9b21c17364496870ec779fc735d",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"About\"\n---\n\n\nAbout this site\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n\n\\![Water Color by MIchelle Banks\\](images/microbial_water_colors.jpg)\n",
+    "supporting": [],
+>>>>>>> a095fbca72eb20419d71cf7a3823bff2c4bcf403
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

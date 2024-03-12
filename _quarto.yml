@@ -8,6 +8,7 @@ website:
     left:
       - href: index.qmd
         text: Home
+<<<<<<< HEAD
       - href: about.qmd 
         text: About
       - href: projects.qmd
@@ -17,10 +18,14 @@ website:
       - href: presentation.qmd
         text: presentation
               
+=======
+      - about.qmd
+        text: About
+>>>>>>> a095fbca72eb20419d71cf7a3823bff2c4bcf403
 
 format:
   html:
-    theme: darkly
+    theme: cosmos
     css: styles.css
     toc: true
 
