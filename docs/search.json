@@ -11,6 +11,41 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "About this site\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Lab 1\nLab 2"
+  },
+  {
+    "objectID": "lab.html",
+    "href": "lab.html",
+    "title": "Labs",
+    "section": "",
+    "text": "These are my lab work."
+  },
+  {
+    "objectID": "presentation.html",
+    "href": "presentation.html",
+    "title": "presentation",
+    "section": "",
+    "text": "These are my presentation."
+  },
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "project",
+    "section": "",
+    "text": "these are my project work."
+  },
+  {
+    "objectID": "about.html#as-a-driven-biology-student-at-the-university-of-massachusetts-amherst-i-am-preparing-for-a-medical-career-with-a-solid-commitment-to-public-health-and-community-empowerment.-this-fall-i-am-embarking-on-a-new-journey-initiating-a-mixed-methods-research-project-on-hpv-studies-through-the-school-of-public-health.-i-aim-to-leverage-this-research-to-further-understand-and-address-public-health-challenges.",
+    "href": "about.html#as-a-driven-biology-student-at-the-university-of-massachusetts-amherst-i-am-preparing-for-a-medical-career-with-a-solid-commitment-to-public-health-and-community-empowerment.-this-fall-i-am-embarking-on-a-new-journey-initiating-a-mixed-methods-research-project-on-hpv-studies-through-the-school-of-public-health.-i-aim-to-leverage-this-research-to-further-understand-and-address-public-health-challenges.",
+    "title": "About",
+    "section": "As a driven Biology student at the University of Massachusetts Amherst, I am preparing for a medical career with a solid commitment to public health and community empowerment. This fall, I am embarking on a new journey, initiating a mixed-methods research project on HPV studies through the School of Public Health. I aim to leverage this research to further understand and address public health challenges.",
+    "text": "As a driven Biology student at the University of Massachusetts Amherst, I am preparing for a medical career with a solid commitment to public health and community empowerment. This fall, I am embarking on a new journey, initiating a mixed-methods research project on HPV studies through the School of Public Health. I aim to leverage this research to further understand and address public health challenges."
   }
 ]

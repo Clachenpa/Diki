@@ -1,8 +1,11 @@
 {
-  "hash": "a754ce02c0472c0b163d8ffb898e69ac",
+  "hash": "b04b023bc73bfc3a3646c5a7bbffea37",
   "result": {
-    "markdown": "---\ntitle: \"About\"\n---\n\n\nAbout this site\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
-    "supporting": [],
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"About\"\n---\n\n\nAbout this site\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n\n[![](images/LachenpaC_100X_Mammalreticulartissue.jpg)](quarto5-posit)\n\n## As a driven Biology student at the University of Massachusetts Amherst, I am preparing for a medical career with a solid commitment to public health and community empowerment. This fall, I am embarking on a new journey, initiating a mixed-methods research project on HPV studies through the School of Public Health. I aim to leverage this research to further understand and address public health challenges.\n",
+    "supporting": [
+      "about_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],
