@@ -8,7 +8,15 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd 
+        text: About
+      - href: projects.qmd
+        text: project
+      - href: lab.qmd
+        text: Labs
+      - href: presentation.qmd
+        text: presentation
+              
 
 format:
   html:
@@ -17,4 +25,6 @@ format:
     toc: true
 
 editor: visual
+
+
 

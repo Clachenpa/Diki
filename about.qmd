@@ -7,3 +7,7 @@ About this site
 ```{r}
 1 + 1
 ```
+
+[![](images/LachenpaC_100X_Mammalreticulartissue.jpg)](quarto5-posit)
+
+## As a driven Biology student at the University of Massachusetts Amherst, I am preparing for a medical career with a solid commitment to public health and community empowerment. This fall, I am embarking on a new journey, initiating a mixed-methods research project on HPV studies through the School of Public Health. I aim to leverage this research to further understand and address public health challenges.
